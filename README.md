@@ -1,4 +1,4 @@
-<img width="1366" height="546" alt="image" src="https://github.com/user-attachments/assets/288be434-8259-4a62-bccb-a6094390c245" />
+
 # 🛍️ React Online Shop
 
 A modern and responsive online shopping application built with React.js. Users can browse products, add items to the shopping cart, and enjoy a clean shopping experience.
